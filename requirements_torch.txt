@@ -1,0 +1,6 @@
+# Separated to prevent extra index URL from affecting other dependencies in requirements.txt
+# PyTorch with CUDA support
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch
+torchvision
+torchaudio
